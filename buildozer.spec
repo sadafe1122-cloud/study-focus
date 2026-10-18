@@ -1,12 +1,12 @@
 [app]
-title = Study Focus
+title = OLED Timer
 package.name = studyfocus
 package.domain = org.erfan
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,ttf,wav
 version = 1.0
 requirements = python3,kivy==2.3.0,plyer,pyjnius,android,arabic-reshaper,python-bidi==0.4.2,six,future
-orientation = all
+orientation = portrait, landscape, portrait-reverse, landscape-reverse
 fullscreen = 1
 android.permissions = POST_NOTIFICATIONS,WAKE_LOCK,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO
 android.api = 33
