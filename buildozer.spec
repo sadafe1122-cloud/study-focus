@@ -1,5 +1,5 @@
 [app]
-title = Study Focus
+title = OLED Timer
 package.name = studyfocus
 package.domain = org.erfan
 source.dir = .
